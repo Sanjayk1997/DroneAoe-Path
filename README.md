@@ -1,6 +1,11 @@
 # Drone-Images
 Computes the set of images that lie within a particular range of a Drone and a few points of interest, using metaData stored in images.
+
+
 The Problem Statement:
+
+
+
   From: Byomkesh Bakshi <bb@alaudidaeuavs.com>
   Subj: Hey, need a quick favour
 
@@ -62,6 +67,9 @@ The Problem Statement:
   Product Ninja
   Alaudidae UAVs
   bb@alaudidaeuavs.com
+
+
+
 
 Solution Statement:
 
